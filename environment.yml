@@ -1,0 +1,8 @@
+name: dia
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
