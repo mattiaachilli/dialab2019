@@ -1,4 +1,4 @@
-Esercitazioni per Programmazione di Applicazioni Data Intensive
-===============================================================
+Exercises for Programming Data Intensive Applications
+================================================= =============
 
-Questa repository contiene le esercitazioni di laboratorio per il corso Programmazione di Applicazioni Data Intensive.
+This repository contains lab exercises for the Data Intensive Application Programming course.
